@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, my name is Thiago Rabello. I have a degree in Mechanical Engineering from Universidade São Judas Tadeu (USJT) and also in Precision Mechanics from Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP). My academic background has provided me with a solid foundation in engineering concepts and advanced mechanics, allowing me to develop technical and analytical skills.
 
-Currently, I work with Generative Artificial Intelligence (GenAI) at Banco Santander, where I apply my skills to develop innovative and impactful solutions. Additionally, I independently study and analyze data on bone tumors, deepening my knowledge in this area and seeking new perspectives.
+Currently, I work with **Generative Artificial Intelligence (GenAI) at Banco Santander**, where I apply my skills to develop innovative and impactful solutions. Additionally, I independently study and analyze data on bone tumors, deepening my knowledge in this area and seeking new perspectives.
 
 My commitment to quality and innovation drives me to constantly improve my skills and knowledge. I am always looking for new challenges that allow me to apply my expertise and make a difference in the world of engineering and data analysis.
 
